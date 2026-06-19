@@ -21,3 +21,16 @@ Learned about cloud computing basics, server setup, and cloud storage
 
 ## Live Demo
 [Click Here to View Portfolio](http://anees-portfolio-2026.s3-website.eu-north-1.amazonaws.com)
+
+## Screenshots Proof
+
+### 1. EC2 Instance Running
+![EC2 Instance](WhatsApp%20Image%202026-06-19%20at%2011.26.16%20AM.jpeg)
+
+### 2. S3 Static Website Hosting
+![S3 Website](WhatsApp%20Image%202026-06-19%20at%2011.26.17%20AM.jpeg)
+
+### 3. SSH Terminal Connection
+![SSH Terminal](WhatsApp%20Image%202026-06-19%20at%2011.26.17%20AM%20%281%29.jpeg)
+
+
